@@ -62,7 +62,7 @@ imdb-sentiment-analysis-ml-and-bilstm/
 ├── requirements.txt
 ├── README.md
 └── RUNNING.md
-
+```
 
 ---
 
@@ -221,5 +221,6 @@ Key findings:
 - Foteini Sotiropoulou
 
 Developed as part of coursework in Artificial Intelligence.
+
 
 
