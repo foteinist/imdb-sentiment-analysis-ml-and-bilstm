@@ -52,15 +52,15 @@ For the deep learning model:
 imdb-sentiment-analysis-ml-and-bilstm/
 │
 ├── part_a_b/
-│ ├── main.py
-│ ├── main2.py
+│   ├── main.py
+│   └── main2.py
 │
 ├── part_c/
-│ └── my_rnn_model.py
+│   └── my_rnn_model.py
 │
 ├── report.pdf
 ├── requirements.txt
-└── README.md
+├── README.md
 └── RUNNING.md
 
 
@@ -221,3 +221,4 @@ Key findings:
 - Foteini Sotiropoulou
 
 Developed as part of coursework in Artificial Intelligence.
+
