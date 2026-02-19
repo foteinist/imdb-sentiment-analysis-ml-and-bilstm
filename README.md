@@ -47,7 +47,7 @@ For the deep learning model:
 ---
 
 ## Project Structure
-
+```
 
 imdb-sentiment-analysis-ml-and-bilstm/
 │
@@ -221,4 +221,5 @@ Key findings:
 - Foteini Sotiropoulou
 
 Developed as part of coursework in Artificial Intelligence.
+
 
